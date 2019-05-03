@@ -157,6 +157,9 @@ footer {
 	-webkit-border-radius: 0px;
 	grid-column: 1 / 3;
 }
+.talla option {
+	color: #000000;
+}
 .btn {
 	background-color: var(--secundario);
 	font-size: 2rem;
